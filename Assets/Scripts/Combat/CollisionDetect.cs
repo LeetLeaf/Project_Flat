@@ -71,10 +71,9 @@ public class CollisionDetect : MonoBehaviour
 
             }
             Debug.LogWarning("hit: " + direction + " : : " + punchVelocity);
-            otherPlayer.rigidbody.AddForce(knockForce);
-            //networkView.RPC("knockBack", RPCMode.All, knockForce);
             otherPlayer.transform.networkView.RPC("knockBack", RPCMode.All, knockForce);
-            otherPlayer.GetComponent<PlayerCombat>().hit = true;
+            otherPlayer.transform.networkView.RPC("Hit", RPCMode.All);
+            otherPlayer.transform.networkView.RPC("SendHP", RPCMode.All);
 
         }
     }

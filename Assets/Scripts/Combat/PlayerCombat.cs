@@ -107,7 +107,18 @@ public class PlayerCombat : MonoBehaviour
         }
         //networkView.RPC("OnSerialNetworkView", RPCMode.All);
 	}
-    
+    [RPC]
+    public void Hit()
+    {
+        hit = true;
+    }
+
+    [RPC]
+    public float SendHP()
+    {
+        return HP;
+    }
+
     public void OnSerialNetworkView(BitStream stream, NetworkMessageInfo info)
     {
         float punch = punchSpeed;
