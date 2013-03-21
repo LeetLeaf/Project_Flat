@@ -120,36 +120,42 @@ public class DeformMesh : MonoBehaviour
 
                     if (map != null)
                         n *= 1 - map[i];
-
-                    vertices[i] += n;
-
-                    if (MaxVertexMov > 0)
-                    {
-                        float max = MaxVertexMov;
-                        n = vertices[i] - baseVertices[i];
-                        d = n.magnitude;
-                        if (d > max)
-                            vertices[i] = baseVertices[i] + (n * (max / d));
-
-                        if (colors.Length > 0)
-                        {
-                            d = (d / MaxVertexMov);
-                            colors[i] = Color.Lerp(baseColors[i], DeformedVertexColor, d);
-                        }
-                    }
-                    else
-                    {
-                        if (colors.Length > 0)
-                        {
-                            colors[i] = Color.Lerp(baseColors[i], DeformedVertexColor, (vertices[i] - baseVertices[i]).magnitude / (distFactor * 10));
-                        }
-                    }
+                    networkView.RPC("VertexMove", RPCMode.All, i, p, d, n, distFactor);
+                   
                 }
             }
         }
 
-        RequestUpdateMesh();
+        networkView.RPC("RequestUpdateMesh", RPCMode.All);
     }
+    [RPC]
+    public void VertexMove(int i, Vector3 p, float d, Vector3 n,float distFactor)
+    { 
+        vertices[i] += n;
+
+        if (MaxVertexMov > 0)
+        {
+            float max = MaxVertexMov;
+            n = vertices[i] - baseVertices[i];
+            d = n.magnitude;
+            if (d > max)
+                vertices[i] = baseVertices[i] + (n * (max / d));
+
+            if (colors.Length > 0)
+            {
+                d = (d / MaxVertexMov);
+                colors[i] = Color.Lerp(baseColors[i], DeformedVertexColor, d);
+            }
+        }
+        else
+        {
+            if (colors.Length > 0)
+            {
+                colors[i] = Color.Lerp(baseColors[i], DeformedVertexColor, (vertices[i] - baseVertices[i]).magnitude / (distFactor * 10));
+            }
+        }
+    }
+
 
     void Repair(float repair)
     {
@@ -181,7 +187,8 @@ public class DeformMesh : MonoBehaviour
 
         RequestUpdateMesh();
     }
-    private void RequestUpdateMesh()
+    [RPC]
+    public void RequestUpdateMesh()
     {
         if (UpdateFrequency == 0)
             UpdateMesh();
