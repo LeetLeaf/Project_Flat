@@ -35,12 +35,12 @@ public class CollisionDetect : MonoBehaviour
 
     void OnCollisionEnter(Collision collisionInfo)
     {
-        //knockBack(collisionInfo);
-        networkView.RPC("knockBack", RPCMode.All,collisionInfo.gameObject);
+        applyForce(collisionInfo.gameObject);
+        //networkView.RPC("knockBack", RPCMode.All,collisionInfo.gameObject);
     }
 
     [RPC]
-    public void knockBack(GameObject player)
+    public void applyForce(GameObject player)
     {
         if (player.gameObject.tag == "PlayerCollider" && gameObject.name == "PlayerFist" && gameObject.transform.parent.GetComponent<PlayerMovement>().timing)
         {
@@ -72,6 +72,8 @@ public class CollisionDetect : MonoBehaviour
             }
             Debug.LogWarning("hit: " + direction + " : : " + punchVelocity);
             otherPlayer.rigidbody.AddForce(knockForce);
+            //networkView.RPC("knockBack", RPCMode.All, knockForce);
+            otherPlayer.transform.networkView.RPC("knockBack", RPCMode.All, knockForce);
             otherPlayer.GetComponent<PlayerCombat>().hit = true;
 
         }

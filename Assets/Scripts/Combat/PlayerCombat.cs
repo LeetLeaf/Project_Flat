@@ -19,11 +19,6 @@ public class PlayerCombat : MonoBehaviour
         lastPosition = transform.FindChild("PlayerFist").transform.localPosition;
         HP = 1;
         hit = false;
-        if (!networkView.isMine)
-        {
-            enabled = false;
-        }
-
     }
     void StartTimer(float time)
     {

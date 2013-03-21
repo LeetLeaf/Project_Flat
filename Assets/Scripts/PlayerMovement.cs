@@ -140,6 +140,11 @@ public class PlayerMovement : MonoBehaviour
             grounded = true;
         }
     }
+    [RPC]
+    public void knockBack(Vector3 force)
+    {
+        rigidbody.AddForce(force);
+    }
 
     void OnSerialNetworkView(BitStream stream, NetworkMessageInfo info)
     {
