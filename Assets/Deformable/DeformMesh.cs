@@ -96,7 +96,6 @@ public class DeformMesh : MonoBehaviour
         else
             map = null;
     }
-    [RPC]
     private void Deform(Collision collision)
     {
         if (!mesh || !meshCollider)
@@ -182,7 +181,6 @@ public class DeformMesh : MonoBehaviour
 
         RequestUpdateMesh();
     }
-    [RPC]
     private void RequestUpdateMesh()
     {
         if (UpdateFrequency == 0)
@@ -190,7 +188,6 @@ public class DeformMesh : MonoBehaviour
         else
             meshUpdate = true;
     }
-    [RPC]
     private void UpdateMesh()
     {
         mesh.vertices = vertices;
@@ -209,7 +206,6 @@ public class DeformMesh : MonoBehaviour
         lastUpdate = Time.time;
         meshUpdate = false;
     }
-    [RPC]
     void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.tag == "Player")
@@ -232,7 +228,6 @@ public class DeformMesh : MonoBehaviour
         }
         Deform(collision);
     }
-    [RPC]
     void OnCollisionStay(Collision collision)
     {
         if (collision.gameObject.tag == "Player")
@@ -255,7 +250,6 @@ public class DeformMesh : MonoBehaviour
         }
         Deform(collision);
     }
-    [RPC]
     void FixedUpdate()
     {
 
