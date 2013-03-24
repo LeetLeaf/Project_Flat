@@ -124,7 +124,7 @@ public class PlayerMovement : MonoBehaviour
             float xMovement = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
             float zMovement = Input.GetAxis("Vertical") * speed * Time.deltaTime;
 
-            transform.Translate(new Vector3(-xMovement, -zMovement, 0));
+            transform.Translate(new Vector3(xMovement, 0, zMovement));
         }
 	}
 

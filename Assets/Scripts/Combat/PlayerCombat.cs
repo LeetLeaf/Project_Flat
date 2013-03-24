@@ -99,7 +99,7 @@ public class PlayerCombat : MonoBehaviour
             //End Punch!
 
         }
-        if (transform.FindChild("PlayerFist").localPosition.x > 2.5 || transform.FindChild("PlayerFist").localPosition.x < 0 || !timing)
+        if (Mathf.Abs(transform.FindChild("PlayerFist").localPosition.x) > Mathf.Abs(lastPosition.x) + 2.5f || Mathf.Abs(transform.FindChild("PlayerFist").localPosition.x) < Mathf.Abs(lastPosition.x) || !timing)
         {
             transform.FindChild("PlayerFist").transform.localPosition = lastPosition;
             transform.FindChild("PlayerFist").rigidbody.isKinematic = true;
