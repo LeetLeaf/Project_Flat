@@ -63,6 +63,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (networkView.isMine)
         {
+            //Turning right
             if (Input.GetKeyDown(KeyCode.D) && transform.localScale.x != -1)
             {
                 if (!Input.GetKey(KeyCode.A))
@@ -70,6 +71,7 @@ public class PlayerMovement : MonoBehaviour
                     animation.Play("TurnRight");
                 }
             }
+            //Turning left
             if (Input.GetKeyDown(KeyCode.A) && transform.localScale.x != 1)
             {
                 if(!Input.GetKey(KeyCode.D))
@@ -77,6 +79,12 @@ public class PlayerMovement : MonoBehaviour
                     animation.Play("TurnLeft");
                 }
             }
+            //Jump animation
+            if (Input.GetKeyDown(KeyCode.Space) && numberOfJumps > 0)
+            {
+                animation.Play("jump");
+            }
+            //Walk Input
             if (Input.GetAxis("Horizontal") > 0)
             {
                 transform.localScale = new Vector3(-1, 1, 1);
@@ -85,7 +93,17 @@ public class PlayerMovement : MonoBehaviour
             {
                 transform.localScale = new Vector3(1, 1, 1);
             }
-
+            //Walk animation
+            if ((Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.W))
+                && !animation.isPlaying && numberOfJumps == 1)
+                animation.Play("walk");
+            
+            if (animation.IsPlaying("walk") 
+                && (Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.S) || Input.GetKeyUp(KeyCode.W)))
+            {
+                animation.Stop("walk");
+            }
+                
             if (Input.GetKeyDown(KeyCode.D) && !timing)
             {
                 StartTimer(1);
@@ -108,16 +126,13 @@ public class PlayerMovement : MonoBehaviour
             //Jump Start
             if (Input.GetKeyDown(KeyCode.Space) && numberOfJumps > 0)
             {
-                grounded = false;
                 rigidbody.AddForce(new Vector3(0, jumpForce, 0));
-                numberOfJumps--;
-
+                grounded = false;
             }
-
             if (grounded)
-            {
                 numberOfJumps = 1;
-            }
+            else
+                numberOfJumps--;
 
             //Jump End
 

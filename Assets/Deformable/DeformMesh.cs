@@ -221,7 +221,6 @@ public class DeformMesh : MonoBehaviour
                 Mathf.Abs(collision.gameObject.rigidbody.velocity.y) > 11 ||
                 Mathf.Abs(collision.gameObject.rigidbody.velocity.z) > 11)
             {
-                Debug.LogError("Player Velocity: " + collision.gameObject.rigidbody.velocity);
                 Deform(collision);
             }
             return;
@@ -243,7 +242,6 @@ public class DeformMesh : MonoBehaviour
                 Mathf.Abs(collision.gameObject.rigidbody.velocity.y) > 11 ||
                 Mathf.Abs(collision.gameObject.rigidbody.velocity.z) > 11)
             {
-                Debug.LogError("Player Velocity: " + collision.gameObject.rigidbody.velocity);
                 Deform(collision);
             }
             return;
