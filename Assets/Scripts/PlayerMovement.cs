@@ -97,13 +97,13 @@ public class PlayerMovement : MonoBehaviour
             if ((Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.W))
                 && !animation.isPlaying && numberOfJumps == 1)
                 animation.Play("walk");
-            
+            /*
             if (animation.IsPlaying("walk") 
                 && (Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.S) || Input.GetKeyUp(KeyCode.W)))
             {
                 animation.Stop("walk");
             }
-                
+             */  
             if (Input.GetKeyDown(KeyCode.D) && !timing)
             {
                 StartTimer(1);
