@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
     public float jumpForce;
     public bool timing;
     private float countdown;
-    private int numberOfJumps = 1;
+    public int numberOfJumps = 2;
     public bool grounded;
     public bool bounceForceApplied;
 
@@ -95,7 +95,7 @@ public class PlayerMovement : MonoBehaviour
             }
             //Walk animation
             if ((Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.W))
-                && !animation.isPlaying && numberOfJumps == 1)
+                && !animation.isPlaying && grounded)
                 animation.Play("walk");
             /*
             if (animation.IsPlaying("walk") 
@@ -115,8 +115,8 @@ public class PlayerMovement : MonoBehaviour
 
                 if (countdown <= 0)
                 {
-                    //Do your stuff
-                    Debug.Log("Countdown!");
+                    grounded = false;
+                    numberOfJumps--;
                     timing = false;
                 }
             }
@@ -127,12 +127,10 @@ public class PlayerMovement : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Space) && numberOfJumps > 0)
             {
                 rigidbody.AddForce(new Vector3(0, jumpForce, 0));
-                grounded = false;
+                StartTimer(0.1f);
             }
             if (grounded)
-                numberOfJumps = 1;
-            else
-                numberOfJumps--;
+                numberOfJumps = 2;
 
             //Jump End
 
