@@ -15,322 +15,217 @@ Platform assembly: C:\Users\Kyle\Documents\GitHub\Project_Flat\MPTest\MpTest_Dat
 Loading C:\Users\Kyle\Documents\GitHub\Project_Flat\MPTest\MpTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: C:\Users\Kyle\Documents\GitHub\Project_Flat\MPTest\MpTest_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
 Loading C:\Users\Kyle\Documents\GitHub\Project_Flat\MPTest\MpTest_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-- Completed reload, in  0.077 seconds
+- Completed reload, in  0.081 seconds
 desktop: 1600x900 60Hz; virtual: 4800x900 at -1600,0
 <RI> Initializing input.
 <RI> Input initialized.
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
- 
-(Filename: C Line: 0)
-
-Countdown!
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-PlayerMovement:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\PlayerMovement.cs:119)
- 
-(Filename: C Line: 0)
-
-Countdown!
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-PlayerMovement:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\PlayerMovement.cs:119)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
- 
-(Filename: C Line: 0)
-
-Countdown!
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-PlayerMovement:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\PlayerMovement.cs:119)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
- 
-(Filename: C Line: 0)
-
-hit: 1 : : 1000
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:LogWarning(Object)
-CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:73)
-CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
- 
-(Filename: C Line: 0)
-
-hit: 1 : : 1000
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:LogWarning(Object)
-CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:73)
-CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
- 
-(Filename: C Line: 0)
-
-Countdown!
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-PlayerMovement:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\PlayerMovement.cs:119)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
- 
-(Filename: C Line: 0)
-
-hit: 1 : : 1000
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:LogWarning(Object)
-CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:73)
-CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
- 
-(Filename: C Line: 0)
-
-hit: 1 : : 1000
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:LogWarning(Object)
-CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:73)
-CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
- 
-(Filename: C Line: 0)
-
-hit: 1 : : 1000
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:LogWarning(Object)
-CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:73)
-CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
- 
-(Filename: C Line: 0)
-
-hit: 1 : : 1000
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:LogWarning(Object)
-CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:73)
-CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
- 
-(Filename: C Line: 0)
-
-hit: 1 : : 1000
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:LogWarning(Object)
-CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:73)
-CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 
 Punch!!
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:81)
  
 (Filename: C Line: 0)
 
 CoolDownDone
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
- 
-(Filename: C Line: 0)
-
-Countdown!
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-PlayerMovement:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\PlayerMovement.cs:119)
- 
-(Filename: C Line: 0)
-
-Punch!!
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:80)
- 
-(Filename: C Line: 0)
-
-CoolDownDone
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:95)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:114)
  
 (Filename: C Line: 0)
 

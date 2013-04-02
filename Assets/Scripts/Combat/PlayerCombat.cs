@@ -74,6 +74,7 @@ public class PlayerCombat : MonoBehaviour
              * the fist is saved before the force is applied that way it can return 
              * to the player's side after it has moved a distance of 3 units.
              */
+            
             if (Input.GetButtonDown("Fire1") && !timing)
             {
                 transform.FindChild("PlayerFist").collider.isTrigger = false;
@@ -82,9 +83,27 @@ public class PlayerCombat : MonoBehaviour
                 lastPosition = transform.FindChild("PlayerFist").transform.localPosition;
                 //transform.FindChild("PlayerFist").transform.Translate(new Vector3(fistPunch,0,0));
                 transform.FindChild("PlayerFist").rigidbody.isKinematic = false;
-                transform.FindChild("PlayerFist").rigidbody.AddForce(new Vector3(fistPunch, 0, 0));
+                if (Input.GetKey(KeyCode.S))
+                {
+                    if (directionMultiplyer == -1)
+                        animation.Play("forwardPunchLeft");
+                    else if (directionMultiplyer == 1)
+                        animation.Play("forwardPunchRight");
+                }
+                else if (Input.GetKey(KeyCode.W))
+                {
+                    if (directionMultiplyer == -1)
+                        animation.Play("backwardPunchLeft");
+                    else if (directionMultiplyer == 1)
+                        animation.Play("backwardPunchRight");
+                }
+                else
+                {
+                    transform.FindChild("PlayerFist").rigidbody.AddForce(new Vector3(fistPunch, 0, 0));
+                }
                 StartTimer(punchTime);
             }
+
             if (timing)
             {
                 countdown -= Time.deltaTime;
@@ -99,12 +118,13 @@ public class PlayerCombat : MonoBehaviour
             //End Punch!
 
         }
+       
         if (Mathf.Abs(transform.FindChild("PlayerFist").localPosition.x) > Mathf.Abs(lastPosition.x) + 2.5f || Mathf.Abs(transform.FindChild("PlayerFist").localPosition.x) < Mathf.Abs(lastPosition.x) || !timing)
         {
             transform.FindChild("PlayerFist").transform.localPosition = lastPosition;
             transform.FindChild("PlayerFist").rigidbody.isKinematic = true;
             transform.FindChild("PlayerFist").collider.isTrigger = true;
-        }
+        } 
         //networkView.RPC("OnSerialNetworkView", RPCMode.All);
 	}
     [RPC]

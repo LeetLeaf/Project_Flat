@@ -96,7 +96,8 @@ public class PlayerMovement : MonoBehaviour
             //Walk animation
             if ((Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.W))
                 && !animation.isPlaying && grounded)
-                animation.Play("walk");
+                animation.Blend("walk");
+
             /*
             if (animation.IsPlaying("walk") 
                 && (Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.S) || Input.GetKeyUp(KeyCode.W)))
@@ -137,7 +138,7 @@ public class PlayerMovement : MonoBehaviour
             float xMovement = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
             float zMovement = Input.GetAxis("Vertical") * speed * Time.deltaTime;
 
-            transform.Translate(new Vector3(xMovement, 0, zMovement));
+            transform.Translate(new Vector3(xMovement, 0, zMovement), Space.World);
         }
 	}
 
