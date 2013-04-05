@@ -55,22 +55,17 @@ public class CollisionDetect : MonoBehaviour
             otherPlayerHp = otherPlayer.GetComponent<PlayerCombat>().HP;
 
             float punchVelocity = playerFist.GetComponent<PlayerCombat>().punchSpeed;
-            float direction = playerFist.GetComponent<PlayerCombat>().directionMultiplyer;
+            float directionX = playerFist.GetComponent<PlayerCombat>().directionMultiplyerX;
+            float directionZ = playerFist.GetComponent<PlayerCombat>().directionMultiplyerZ;
             //Up Modifer
             knockForce.y = (punchVelocity / 2) * otherPlayerHp;
 
 
             //KnockBackForward
-            if (direction > 0)
-            {
-                knockForce.x = direction * punchVelocity * otherPlayerHp;
-            }
-            else if (direction < 0)
-            {
-                knockForce.x = direction * punchVelocity * otherPlayerHp;
+            knockForce.x = directionX * punchVelocity * otherPlayerHp;
+            knockForce.z = directionZ * punchVelocity * otherPlayerHp;
 
-            }
-            Debug.LogWarning("hit: " + direction + " : : " + punchVelocity);
+            Debug.LogWarning("hit: " + directionX + " : : " + punchVelocity);
             otherPlayer.transform.networkView.RPC("knockBack", RPCMode.All, knockForce);
             otherPlayer.transform.networkView.RPC("Hit", RPCMode.All);
             otherPlayer.transform.networkView.RPC("SendHP", RPCMode.All);

@@ -4,7 +4,8 @@ using System.Collections;
 public class PlayerCombat : MonoBehaviour 
 {
     public float punchSpeed;
-    public float directionMultiplyer;
+    public float directionMultiplyerX;
+    public float directionMultiplyerZ;
     public float HP;
     public bool hit;
 
@@ -40,22 +41,28 @@ public class PlayerCombat : MonoBehaviour
         //Tells the fist which way the player should be punching 
         if (Input.GetAxis("Horizontal") > 0)
         {
-            directionMultiplyer = 1;
+            directionMultiplyerX = 1;
         }
         else if (Input.GetAxis("Horizontal") < 0)
         {
-            directionMultiplyer = -1;
+            directionMultiplyerX = -1;
         }
-
         if (transform.localScale.x > 0)
         {
-            directionMultiplyer = -1;
+            directionMultiplyerX = -1;
         }
         else
         {
-            directionMultiplyer = 1;
+            directionMultiplyerX = 1;
         }
 
+        //Player Direction is forward or backward
+        if (Input.GetAxis("Vertical") > 0)
+            directionMultiplyerZ = 1;
+        else if (Input.GetAxis("Vertical") < 0)
+            directionMultiplyerZ = -1;
+        else
+            directionMultiplyerZ = 0;
         //Updates Player's HP
         if (hit)
         {
@@ -79,22 +86,22 @@ public class PlayerCombat : MonoBehaviour
             {
                 transform.FindChild("PlayerFist").collider.isTrigger = false;
                 Debug.Log("Punch!!");
-                float fistPunch = directionMultiplyer * punchSpeed;
+                float fistPunch = directionMultiplyerX * punchSpeed;
                 lastPosition = transform.FindChild("PlayerFist").transform.localPosition;
                 //transform.FindChild("PlayerFist").transform.Translate(new Vector3(fistPunch,0,0));
                 transform.FindChild("PlayerFist").rigidbody.isKinematic = false;
                 if (Input.GetKey(KeyCode.S))
                 {
-                    if (directionMultiplyer == -1)
+                    if (directionMultiplyerX == -1)
                         animation.Play("forwardPunchLeft");
-                    else if (directionMultiplyer == 1)
+                    else if (directionMultiplyerX == 1)
                         animation.Play("forwardPunchRight");
                 }
                 else if (Input.GetKey(KeyCode.W))
                 {
-                    if (directionMultiplyer == -1)
+                    if (directionMultiplyerX == -1)
                         animation.Play("backwardPunchLeft");
-                    else if (directionMultiplyer == 1)
+                    else if (directionMultiplyerX == 1)
                         animation.Play("backwardPunchRight");
                 }
                 else
@@ -142,7 +149,7 @@ public class PlayerCombat : MonoBehaviour
     public void OnSerialNetworkView(BitStream stream, NetworkMessageInfo info)
     {
         float punch = punchSpeed;
-        float direction = directionMultiplyer;
+        float direction = directionMultiplyerX;
         float health = HP;
         if (stream.isWriting)
         {
@@ -150,7 +157,7 @@ public class PlayerCombat : MonoBehaviour
             punch = punchSpeed;
             stream.Serialize(ref punch);
 
-            direction = directionMultiplyer;
+            direction = directionMultiplyerX;
             stream.Serialize(ref direction);
 
             health = HP;
@@ -162,7 +169,7 @@ public class PlayerCombat : MonoBehaviour
             punchSpeed = punch;
 
             stream.Serialize(ref direction);
-            directionMultiplyer = direction;
+            directionMultiplyerX = direction;
 
             stream.Serialize(ref health);
             HP = health;
