@@ -44,14 +44,18 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Deformable\DeformMesh.cs" />
      <Compile Include="Assets\License.cs" />
+     <Compile Include="Assets\Scripts\Combat\Ablities\Ability.cs" />
+     <Compile Include="Assets\Scripts\Combat\Ablities\PowerKick.cs" />
      <Compile Include="Assets\Scripts\Combat\CollisionDetect.cs" />
+     <Compile Include="Assets\Scripts\Combat\PlayerAbilities.cs" />
      <Compile Include="Assets\Scripts\Combat\PlayerCombat.cs" />
      <Compile Include="Assets\Scripts\Combat\PlayerHp.cs" />
      <Compile Include="Assets\Scripts\Combat\PropHP.cs" />
      <Compile Include="Assets\Scripts\DeathTrigger.cs" />
+     <Compile Include="Assets\Scripts\Deformable\DeformMesh.cs" />
      <Compile Include="Assets\Scripts\FaceCamera.cs" />
+     <Compile Include="Assets\Scripts\GUI\MainMenu\MainMenuGUI.cs" />
      <Compile Include="Assets\Scripts\MainCamera.cs" />
      <Compile Include="Assets\Scripts\Networking\MPBase.cs" />
      <Compile Include="Assets\Scripts\Networking\Spawn.cs" />

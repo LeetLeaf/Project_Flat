@@ -8,6 +8,7 @@ public class PlayerCombat : MonoBehaviour
     public float directionMultiplyerZ;
     public float HP;
     public bool hit;
+    Ability kick = new PowerKick(1);
 
     private bool timing;
     private float countdown;
@@ -90,6 +91,7 @@ public class PlayerCombat : MonoBehaviour
                 lastPosition = transform.FindChild("PlayerFist").transform.localPosition;
                 //transform.FindChild("PlayerFist").transform.Translate(new Vector3(fistPunch,0,0));
                 transform.FindChild("PlayerFist").rigidbody.isKinematic = false;
+                
                 if (Input.GetKey(KeyCode.S))
                 {
                     if (directionMultiplyerX == -1)
@@ -109,6 +111,10 @@ public class PlayerCombat : MonoBehaviour
                     transform.FindChild("PlayerFist").rigidbody.AddForce(new Vector3(fistPunch, 0, 0));
                 }
                 StartTimer(punchTime);
+            }
+            if (Input.GetKey(KeyCode.Q))
+            {
+                kick.Attack(gameObject.animation);
             }
 
             if (timing)
