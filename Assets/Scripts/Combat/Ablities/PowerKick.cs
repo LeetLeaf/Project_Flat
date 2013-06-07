@@ -13,9 +13,12 @@ public class PowerKick : Ability
         attackCoolDown = 0.5f;
     }
 
-    public override void Attack(Animation animation)
+    public override void Attack(Animation animation, float directionX)
     {
-        animation.Play("powerKick");
+        if (directionX == 1)
+            animation.Play("powerKickLeft");
+        else
+            animation.Play("powerKickRight");
     }
 
     public override void AttackSuccess(GameObject enemyPlayer)

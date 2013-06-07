@@ -9,7 +9,7 @@ public abstract class Ability : MonoBehaviour
     public int level {get; set;}
     public float attackCoolDown { get; set; }
 
-    public abstract void Attack(Animation animation);//Allows player to use attack also checks if an enemy is in range
+    public abstract void Attack(Animation animation,float directionX);//Allows player to use attack also checks if an enemy is in range
     public abstract void AttackSuccess(GameObject enemyPlayer);//attack hits
     public abstract void AttackMiss();//attack misses
 
