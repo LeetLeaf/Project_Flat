@@ -101,7 +101,7 @@ public class DeformMesh : MonoBehaviour
         if (!mesh || !meshCollider)
             return;
 
-        float colForce = Mathf.Min(1, collision.impactForceSum.sqrMagnitude / 1000);
+        float colForce = Mathf.Min(1, collision.relativeVelocity.sqrMagnitude / 1000);
 
         if (colForce < 0.01f)
             return;

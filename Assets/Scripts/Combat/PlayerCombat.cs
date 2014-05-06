@@ -76,7 +76,7 @@ public class PlayerCombat : MonoBehaviour
 
         if (networkView.isMine)
         {
-
+            /* THIS IS OLD CODE FOR THE PUNCH! THE NEW CODE WILL WORK WITH ANIMATIONS INSTEAD OF PHYSICS!
             /*Start Punch!
              * When the left mouse button is pressed the fist is then turned into
              * a physical object within the game. This allows force to be applied
@@ -88,9 +88,8 @@ public class PlayerCombat : MonoBehaviour
             if (Input.GetButtonDown("Fire1") && !timing)
             {
                 transform.FindChild("PlayerFist").collider.isTrigger = false;
-                Debug.Log("Punch!!");
-                float fistPunch = directionMultiplyerX * punchSpeed;
-                lastPosition = transform.FindChild("PlayerFist").transform.localPosition;
+                //float fistPunch = directionMultiplyerX * punchSpeed;
+                //lastPosition = transform.FindChild("PlayerFist").transform.localPosition;
                 //transform.FindChild("PlayerFist").transform.Translate(new Vector3(fistPunch,0,0));
                 transform.FindChild("PlayerFist").rigidbody.isKinematic = false;
                 
@@ -109,8 +108,11 @@ public class PlayerCombat : MonoBehaviour
                         animation.Play("backwardPunchRight");
                 }
                 else
-                {
-                    transform.FindChild("PlayerFist").rigidbody.AddForce(new Vector3(fistPunch, 0, 0));
+                { 
+                    animation["Punch"].speed = 3;
+                    //transform.FindChild("PlayerFist").rigidbody.AddForce(new Vector3(fistPunch, 0, 0));
+                    animation.Play("Punch");
+                   
                 }
                 StartTimer(punchTime);
             }
@@ -128,19 +130,29 @@ public class PlayerCombat : MonoBehaviour
                     //Do your stuff
                     Debug.Log("CoolDownDone");
                     timing = false;
+                    
+                    
                 }
             }
+            if (!animation.isPlaying)
+            {
+                transform.FindChild("PlayerFist").rigidbody.isKinematic = true;
+                transform.FindChild("PlayerFist").collider.isTrigger = true;
+                Debug.Log("animation is done");
+            }
             //End Punch!
+            
+
 
         }
-       
+       /*
         if (Mathf.Abs(transform.FindChild("PlayerFist").localPosition.x)> Mathf.Abs(lastPosition.x) + 2.5f 
             || Mathf.Abs(transform.FindChild("PlayerFist").localPosition.x) < Mathf.Abs(lastPosition.x) || !timing)
         {
             transform.FindChild("PlayerFist").transform.localPosition = lastPosition;
-            transform.FindChild("PlayerFist").rigidbody.isKinematic = true;
-            transform.FindChild("PlayerFist").collider.isTrigger = true;
+            
         } 
+        */
         //networkView.RPC("OnSerialNetworkView", RPCMode.All);
 	}
     [RPC]

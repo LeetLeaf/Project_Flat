@@ -10,6 +10,8 @@ public class MPBase : MonoBehaviour
     public string ipAddress = "";
     public string port = "";
     public string playerName = "<NAME ME>";
+    
+    
 
     void OnGUI()
     {
@@ -30,8 +32,9 @@ public class MPBase : MonoBehaviour
                 if (playerName != "<NAME ME>")
                 {
                     //Network.useNat = useNAT;
+                    useNAT = !Network.HavePublicAddress();
                     Network.InitializeServer(32, connectPort,useNAT);
-
+                    MasterServer.RegisterHost(playerName, playerName);
                     foreach(GameObject go in FindObjectsOfType(typeof(GameObject)))
                     {
                         go.SendMessage("OnNetworkLoadedLevel", SendMessageOptions.DontRequireReceiver);
