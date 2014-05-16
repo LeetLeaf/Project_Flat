@@ -15,7 +15,7 @@ public class MPBase : MonoBehaviour
     void Start()
     {
         MasterServer.ipAddress = "localhost";
-        MasterServer.port = 23466;
+        MasterServer.port = 25565;
     }
 
     void OnGUI()

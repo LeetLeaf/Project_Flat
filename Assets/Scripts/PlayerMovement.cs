@@ -135,10 +135,19 @@ public class PlayerMovement : MonoBehaviour
 
             //Jump End
 
-            float xMovement = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
-            float zMovement = Input.GetAxis("Vertical") * speed * Time.deltaTime;
-            xMovement = Input.acceleration.x * speed * Time.deltaTime;
-            zMovement = Input.acceleration.y * speed * Time.deltaTime;
+            float xMovement;
+            float zMovement;
+            if ((Application.platform == RuntimePlatform.Android) || (Application.platform ==RuntimePlatform.IPhonePlayer))
+            {
+                xMovement = Input.acceleration.x * speed * Time.deltaTime;
+                zMovement = Input.acceleration.y * -speed * Time.deltaTime;
+            }
+            else
+            {
+                xMovement = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
+                zMovement = Input.GetAxis("Vertical") * speed * Time.deltaTime;
+            }
+            
 
             transform.Translate(new Vector3(xMovement, 0, zMovement), Space.World);
         }

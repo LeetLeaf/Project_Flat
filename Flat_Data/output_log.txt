@@ -1,21 +1,3669 @@
 Initialize engine version: 4.3.4f1 (e444f76e01cd)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3489]
-    Renderer: NVIDIA GeForce GTX 460M         
-    Vendor:   NVIDIA
-    VRAM:     1488 MB (via DXGI)
-    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1267]
+    Renderer: AMD Radeon HD 7800 Series
+    Vendor:   ATI
+    VRAM:     2030 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\1\Documents\GitHub\Project_Flat\Flat_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\1\Documents\GitHub\Project_Flat\Flat_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\1\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\1\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\1\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\1\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\1\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\1\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-- Completed reload, in  0.085 seconds
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\Kyle\Documents\GitHub\Project_Flat\Flat_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kyle\Documents\GitHub\Project_Flat\Flat_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kyle\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Kyle\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Kyle\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kyle\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kyle\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Kyle\Documents\GitHub\Project_Flat\Flat_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.199 seconds
+desktop: 1600x900 60Hz; virtual: 4800x900 at -1600,0
 <RI> Initializing input.
 <RI> Input initialized.
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+THere is a server here
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:71)
+ 
+(Filename: C Line: 0)
+
+Received pong from 192.168.1.6:25000
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/Runtime/Network/NetworkManager.cpp Line: 831)
+
+Received pong from 25.38.85.0:25000
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/Runtime/Network/NetworkManager.cpp Line: 831)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionStay(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:251)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+PunchTree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DeformMesh:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Deformable\DeformMesh.cs:230)
+ 
+(Filename: C Line: 0)
+
+hit: 1 : : 1000
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:68)
+CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+hit: 1 : : 1000
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:68)
+CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+hit: 1 : : 1000
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:68)
+CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+hit: -1 : : 1000
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:68)
+CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+hit: -1 : : 1000
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:68)
+CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+hit: -1 : : 1000
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+CollisionDetect:applyForce(GameObject) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:68)
+CollisionDetect:OnCollisionEnter(Collision) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\CollisionDetect.cs:38)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+CoolDownDone
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerCombat:Update() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Combat\PlayerCombat.cs:131)
+ 
+(Filename: C Line: 0)
+
+Failed to send remove RPCs command to network
+UnityEngine.Network:INTERNAL_CALL_Internal_RemoveRPCs(NetworkPlayer, NetworkViewID&, UInt32)
+UnityEngine.Network:Internal_RemoveRPCs(NetworkPlayer, NetworkViewID, UInt32)
+UnityEngine.Network:RemoveRPCs(NetworkPlayer)
+Spawn:OnDisconnectedFromServer(NetworkDisconnection) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\Spawn.cs:30)
+UnityEngine.Network:Disconnect(Int32)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:109)
+
+[C:/BuildAgent/work/d3d49558e4d408f4/Runtime/Network/NetworkManager.cpp line 2458] 
+(Filename: C Line: 0)
+
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+UnityEngine.Network:DestroyPlayerObjects(NetworkPlayer)
+Spawn:OnDisconnectedFromServer(NetworkDisconnection) (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\Spawn.cs:31)
+UnityEngine.Network:Disconnect(Int32)
+MPBase:OnGUI() (at C:\Users\Kyle\Documents\GitHub\Project_Flat\Assets\Scripts\Networking\MPBase.cs:109)
+
+[C:/BuildAgent/work/d3d49558e4d408f4/Runtime/Network/NetworkManager.cpp line 2458] 
+(Filename: C Line: 0)
+
+UnloadTime: 0.933780 ms
+System memory in use before: 11.2 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 11.1 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 2.326399 ms (FindLiveObjects: 0.037294 ms CreateObjectMapping: 0.023167 ms MarkObjects: 0.188451 ms  DeleteObjects: 0.017799 ms)
+
