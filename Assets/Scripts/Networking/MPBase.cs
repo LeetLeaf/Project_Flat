@@ -10,13 +10,25 @@ public class MPBase : MonoBehaviour
     public string ipAddress = "";
     public string port = "";
     public string playerName = "<NAME ME>";
-    
-    
+    public bool received=false;
+
+    void Start()
+    {
+        MasterServer.ipAddress = "localhost";
+        MasterServer.port = 23466;
+    }
 
     void OnGUI()
     {
-        if (Network.peerType == NetworkPeerType.Disconnected)
+        if (Network.peerType == NetworkPeerType.Disconnected && !received)
         {
+            if (GUILayout.Button("Find Server"))
+            {
+                MasterServer.ClearHostList();
+                MasterServer.RequestHostList("Project_Flat");
+                //received = false;
+            }
+            
             if (GUILayout.Button("Connect"))
             {
                 if (playerName != "<NAME ME>")
@@ -34,7 +46,7 @@ public class MPBase : MonoBehaviour
                     //Network.useNat = useNAT;
                     useNAT = !Network.HavePublicAddress();
                     Network.InitializeServer(32, connectPort,useNAT);
-                    MasterServer.RegisterHost(playerName, playerName);
+                    MasterServer.RegisterHost("Project_Flat", playerName);
                     foreach(GameObject go in FindObjectsOfType(typeof(GameObject)))
                     {
                         go.SendMessage("OnNetworkLoadedLevel", SendMessageOptions.DontRequireReceiver);
@@ -48,6 +60,31 @@ public class MPBase : MonoBehaviour
             playerName = GUILayout.TextField(playerName);
             connectToIp = GUILayout.TextField(connectToIp);
             connectPort = Convert.ToInt32(GUILayout.TextField(connectPort.ToString()));
+        }
+        else if (received)
+        {
+            if (MasterServer.PollHostList().Length != 0)
+            {
+                HostData[] hostData = MasterServer.PollHostList();
+                foreach (HostData host in hostData)
+                {
+                    Debug.Log("THere is a server here");
+                    if (GUILayout.Button("Join "+host.gameName))
+                    {
+                        Network.Connect(host.ip, host.port);
+                        PlayerPrefs.SetString("playerName", playerName);
+                        received = false;
+                        MasterServer.ClearHostList();
+                        
+                    }
+                }
+               
+            }
+            if(GUILayout.Button("Back to Menu"))
+            {
+                received = false;
+                MasterServer.ClearHostList();
+            }
         }
         else
         {
@@ -77,6 +114,7 @@ public class MPBase : MonoBehaviour
             GUILayout.Label("IP Address: " + ipAddress + ":" + port);
 
         }
+        
     }
 
     void OnConnectedToServer()
@@ -84,6 +122,14 @@ public class MPBase : MonoBehaviour
         foreach (GameObject go in FindObjectsOfType(typeof(GameObject)))
         {
             go.SendMessage("OnNetworkLoadedLevel", SendMessageOptions.DontRequireReceiver);
+        }
+    }
+
+    void OnMasterServerEvent(MasterServerEvent ms)
+    {
+        if (ms == MasterServerEvent.HostListReceived)
+        {
+            received = true;
         }
     }
 }

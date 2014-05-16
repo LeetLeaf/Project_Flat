@@ -138,7 +138,7 @@ public class PlayerCombat : MonoBehaviour
             {
                 transform.FindChild("PlayerFist").rigidbody.isKinematic = true;
                 transform.FindChild("PlayerFist").collider.isTrigger = true;
-                Debug.Log("animation is done");
+                //Debug.Log("animation is done");
             }
             //End Punch!
             
